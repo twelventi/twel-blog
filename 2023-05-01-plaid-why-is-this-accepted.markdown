@@ -1,8 +1,6 @@
 ---
-layout: post
 title:  "Plaid?" # This is the title that is displayed to users
 date:   2023-05-01 00:00:00 -0500 # Remember to set this the same as the filename to avoid confusion
-categories: jekyll update # Don't mess with categories unless you know how Jekyll works
 author: David Bono
 # Uncomment to attach downloads
 # downloads:

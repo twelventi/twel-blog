@@ -1,8 +1,6 @@
 ---
-layout: post
 title:  "WiFi Coffee Makers are only a Little More Secure than I Thought" # This is the title that is displayed to users
-date:   2021-03-31 00:00:00 -0500 # Remember to set this the same as the filename to avoid confusion
-categories: jekyll update # Don't mess with categories unless you know how Jekyll works
+date:   2021-03-31 00:00:00 -0501 # Remember to set this the same as the filename to avoid confusion
 author: David Bono
 # Uncomment to attach downloads
 # downloads:
