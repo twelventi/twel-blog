@@ -196,10 +196,3 @@ In conclusion, there is a replay attack vulnerability that allows you to success
 
 This was pretty much how the event worked (aside from exposing the coffee makers to the public internet so people who were remote at the event possibly could have recreated this behavior....). Thanks to all who came to the event, and I hope you were able to learn something about embedded devices!
 
-
-
-newlines go <br>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
