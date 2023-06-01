@@ -17,40 +17,34 @@ My previous experience includes the following:
         margin-top: 0;
         margin-bottom: 0;
     }
-
-    .exp-item img {
-        height: 75px;
-        width: 75px;
-    }
-
     .exp-item .details {
         margin-left: 10px;
     }
 </style>
 <div id="work-exp">
     <div class="exp-item">
-        <img src="https://github.com/twelventi/twel-blog/blob/main/static/symbiont.png?raw=true" alt="">
+        <img style="height:75px;width:75px;" src="https://github.com/twelventi/twel-blog/blob/main/static/symbiont.png?raw=true" alt="">
         <div class="details">
             <h3>Symbiont</h3>
             <h5>Software Engineer</h5>
         </div>
     </div>
     <div class="exp-item">
-        <img src="https://github.com/twelventi/twel-blog/blob/main/static/otis.png?raw=true" alt="">
+        <img style="height:75px;width:75px;" src="https://github.com/twelventi/twel-blog/blob/main/static/otis.png?raw=true" alt="">
         <div class="details">
             <h3>Otis Elevator Company</h3>
             <h5>Application Security Software Engineer Intern</h5>
         </div>
     </div>
     <div class="exp-item">
-        <img src="https://github.com/twelventi/twel-blog/blob/main/static/scalzo.jpg?raw=true" alt="">
+        <img style="height:75px;width:75px;" src="https://github.com/twelventi/twel-blog/blob/main/static/scalzo.jpg?raw=true" alt="">
         <div class="details">
             <h3>Scalzo Property Management</h3>
             <h5>IT Specialist</h5>
         </div>
     </div>
     <div class="exp-item">
-        <img src="https://github.com/twelventi/twel-blog/blob/main/static/fordhamcss.jpg?raw=true" alt="">
+        <img style="height:75px;width:75px;" src="https://github.com/twelventi/twel-blog/blob/main/static/fordhamcss.jpg?raw=true" alt="">
         <div class="details">
             <h3>Fordham Computer Science Society</h3>
             <h5>Resarch Director</h5>
