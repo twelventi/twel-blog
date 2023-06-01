@@ -13,7 +13,17 @@ My previous experience includes the following:
         display: flex;
         margin: 10px;
     }
-    .details {
+    .exp-item h3 {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    .exp-item img {
+        height: 75px;
+        width: 75px;
+    }
+
+    .exp-item .details {
         margin-left: 10px;
     }
 </style>
