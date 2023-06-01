@@ -17,6 +17,7 @@ My previous experience includes the following:
         margin-top: 0;
         margin-bottom: 0;
     }
+
     .exp-item .details {
         margin-left: 10px;
     }
@@ -25,28 +26,28 @@ My previous experience includes the following:
     <div class="exp-item">
         <img style="height:75px;width:75px;" src="https://github.com/twelventi/twel-blog/blob/main/static/symbiont.png?raw=true" alt="">
         <div class="details">
-            <h3>Symbiont</h3>
+            <h3 style="font-weight:bold">Symbiont</h3>
             <h5>Software Engineer</h5>
         </div>
     </div>
     <div class="exp-item">
         <img style="height:75px;width:75px;" src="https://github.com/twelventi/twel-blog/blob/main/static/otis.png?raw=true" alt="">
         <div class="details">
-            <h3>Otis Elevator Company</h3>
+            <h3 style="font-weight:bold">Otis Elevator Company</h3>
             <h5>Application Security Software Engineer Intern</h5>
         </div>
     </div>
     <div class="exp-item">
         <img style="height:75px;width:75px;" src="https://github.com/twelventi/twel-blog/blob/main/static/scalzo.jpg?raw=true" alt="">
         <div class="details">
-            <h3>Scalzo Property Management</h3>
+            <h3 style="font-weight:bold">Scalzo Property Management</h3>
             <h5>IT Specialist</h5>
         </div>
     </div>
     <div class="exp-item">
         <img style="height:75px;width:75px;" src="https://github.com/twelventi/twel-blog/blob/main/static/fordhamcss.jpg?raw=true" alt="">
         <div class="details">
-            <h3>Fordham Computer Science Society</h3>
+            <h3 style="font-weight:bold">Fordham Computer Science Society</h3>
             <h5>Resarch Director</h5>
         </div>
     </div>
