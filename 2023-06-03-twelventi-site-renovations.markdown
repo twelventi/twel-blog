@@ -10,7 +10,7 @@ If you're a fan of the twelventi blog, you might notice some of the things aroun
 
 
 
-If you're here for a while, you might notice some other country flags flying around the screen and following your cursor. Whenever someone connects to the site, the flag of the country they are visiting from follows around their cursor, and displays to other users on the site! (Pretty cool, say hi!)
+If you're here for a while, you might notice some other country flags flying around the screen and following your cursor. Whenever someone connects to the site, the flag of the country they are visiting from follows around their cursor, and displays to other users on the site! (Pretty cool, say hi!). If you'd like to disable this behavior you always can click the cursor icon in the navbar.
 
 
 
