@@ -46,7 +46,7 @@ I quickly wrote my own .proto definition for the example message I had (because 
 
 ## Remediations?
 
-I thought about a possible way to have this audio preview feature for AI audio sites like this that somehow can avoid users downloading the audio files, however I think most efforts would be in vain. A user still would have the ability to redirect the audio output to a virtual micrphone, digitally "record" the preview and walk away with the audio file. 
+I thought about a possible way to have this audio preview feature for AI audio sites like this that somehow can avoid users downloading the audio files, however I think most efforts would be in vain. A user still would have the ability to redirect the audio output to a virtual microphone, digitally "record" the preview and walk away with the audio file. 
 
 
 
