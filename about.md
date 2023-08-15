@@ -24,6 +24,13 @@ My previous experience includes the following:
 </style>
 <div id="work-exp">
     <div class="exp-item">
+        <img style="height:75px;width:75px;" src="https://github.com/twelventi/twel-blog/blob/main/static/da.jpg?raw=true" alt="">
+        <div class="details">
+            <h3 style="font-weight:bold;">Digital Asset</h3>
+            <h5>Software Support Engineer</h5>
+        </div>
+    </div>
+    <div class="exp-item">
         <img style="height:75px;width:75px;" src="https://github.com/twelventi/twel-blog/blob/main/static/symbiont.png?raw=true" alt="">
         <div class="details">
             <h3 style="font-weight:bold;">Symbiont</h3>
@@ -48,7 +55,7 @@ My previous experience includes the following:
         <img style="height:75px;width:75px;" src="https://github.com/twelventi/twel-blog/blob/main/static/fordhamcss.jpg?raw=true" alt="">
         <div class="details">
             <h3 style="font-weight:bold;">Fordham Computer Science Society</h3>
-            <h5>Resarch Director</h5>
+            <h5>Research Director</h5>
         </div>
     </div>
 </div>
