@@ -1,9 +1,11 @@
 ---
+tags:
+  - a195d8a
 title: Automating The Blog with Obsidian
 date: 2026-05-25
 author: David Bono
 ---
-![[img_large_Trends-blog_-Industrial-automation-engineering.jpg]]
+![](img_large_Trends-blog_-Industrial-automation-engineering.jpg)
 
 I've needed a new post for a while now, and this article outlines how I've enabled the automation of new articles for twel-blog.
 
