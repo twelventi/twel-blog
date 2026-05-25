@@ -1,6 +1,4 @@
 ---
-tags:
-  - a56bcda
 title: Automating The Blog with Obsidian
 date: 2026-05-25
 author: David Bono

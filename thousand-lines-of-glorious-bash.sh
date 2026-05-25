@@ -24,7 +24,7 @@ for FILENAME in $(dirname $BASH_SOURCE)/*.markdown; do
     echo "  <title>" $TITLE "</title>" >> feed.rss
     echo "  <author>" $AUTHOR "</author>" >> feed.rss
     echo "  <pubDate>" $DATE "</pubDate>" >> feed.rss
-    echo "  <link>" "https://twelventi.com/blog/${RAW_FILE}" "</link>" >> feed.rss
+    echo "  <link>" "https://twelventi.com/posts/${RAW_FILE}" "</link>" >> feed.rss
     echo "</item>" >> feed.rss    
 
     rm $TEMP_F
