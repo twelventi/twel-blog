@@ -5,9 +5,11 @@ author: David Bono
 tags:
   - 7f1f91a
   - philosophy
-commit: e2e288b288cab160df2677a773cd8093a4994746
-url: "https://twelventi.com/blog/2026-05-25-swes-are-not-going-anywhere"
+commit: 57c130cc32fe5d28580b58caed88ad038207b3a7
+url: "https://twelventi.com/posts/2026-05-25-swes-are-not-going-anywhere"
 ---
+![9448067](https://raw.githubusercontent.com/twelventi/twel-blog/main/static/2026-05-25-swes-are-not-going-anywhere/9448067.jpg)
+
 There is much talk about how AI is going to replace software engineers. In NYC, practically every ad you see is for some AI company. Even the [Vatican](https://x.com/grok/status/2058918681250242608?s=20) is getting involved. 
 
 I recently wrote an article on this blog about [Automating Twel-Blog with Obsidian](https://twelventi.com/posts/2026-05-25-automating-the-blog-with-obsidian) The scripts created for this automation took about 30 seconds of prompting cursor in order to get something satisfactory, it would have taken much longer if I were to do it myself by hand. 
