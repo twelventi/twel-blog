@@ -5,10 +5,12 @@ author: David Bono
 tags:
   - 7f1f91a
   - philosophy
+commit: e2e288b288cab160df2677a773cd8093a4994746
+url: "https://twelventi.com/blog/2026-05-25-swes-are-not-going-anywhere"
 ---
 There is much talk about how AI is going to replace software engineers. In NYC, practically every ad you see is for some AI company. Even the [Vatican](https://x.com/grok/status/2058918681250242608?s=20) is getting involved. 
 
-I recently wrote an article on this blog about [Automating Twel-Blog with Obsidian](https://twelventi.com/blog/2026-05-25-automating-the-blog-with-obsidian) The scripts created for this automation took about 30 seconds of prompting cursor in order to get something satisfactory, it would have taken much longer if I were to do it myself by hand. 
+I recently wrote an article on this blog about [Automating Twel-Blog with Obsidian](https://twelventi.com/posts/2026-05-25-automating-the-blog-with-obsidian) The scripts created for this automation took about 30 seconds of prompting cursor in order to get something satisfactory, it would have taken much longer if I were to do it myself by hand. 
 
 On the surface, it seems like anyone would be able to set up things like this, but there's a prohibitive attribute here. _You don't know what you don't know._ In order to effectively use these AI code generation tools, you necessarily have to be able to describe to them what you want them to do. Without a great command of the english language, or enough domain knowledge to understand what's going on, you will not be able to effectively communicate to the AI robots the intended effect you desire. 
 
