@@ -1,11 +1,10 @@
 ---
-title:  "Plaid?" # This is the title that is displayed to users
-date:   2023-05-01
+title: Plaid?
+date: 2023-05-01
 author: David Bono
-# Uncomment to attach downloads
-# downloads:
-#     - file_url: /assets/downloads/example_file.pdf
-#       name: Example File
+tags:
+  - security
+  - finance
 ---
 
 I've very recently had the unfortunate displeasure of discovering a financial service I'm using removed the option for people to transfer money directly from a bank account to for interface with the service, and only provides options for Plaid, a Card, or Wire Transfers. The latter two options incur fees to transfer your own money, so they're not really reasonable.
