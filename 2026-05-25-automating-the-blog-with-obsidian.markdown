@@ -1,4 +1,7 @@
 ---
+tags:
+  - 0c206b7
+  - Tech
 title: Automating The Blog with Obsidian
 date: 2026-05-25
 author: David Bono
