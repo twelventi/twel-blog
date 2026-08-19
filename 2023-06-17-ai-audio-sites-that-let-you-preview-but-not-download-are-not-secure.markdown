@@ -1,7 +1,10 @@
 ---
-title:  "AI Audio Sites with Audio Preview" # This is the title that is displayed to users
-date:   2023-06-17
+title: AI Audio Sites with Audio Preview
+date: 2023-06-17
 author: David Bono
+tags:
+  - security
+  - ai
 ---
 
 _The topics discussed in this article are for educational and research purposes only_
