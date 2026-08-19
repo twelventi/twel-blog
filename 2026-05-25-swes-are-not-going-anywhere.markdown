@@ -5,8 +5,10 @@ author: David Bono
 tags:
   - 7f1f91a
   - philosophy
-commit: 801ee2b63c03576fa304a16fb1b7e355e3b13f5c
-url: "https://twelventi.com/posts/2026-05-25-swes-are-not-going-anywhere"
+  - tech
+  - ai
+commit: 3e963ca7fe9c1f64696b320433f956b95c46a3b0
+url: https://twelventi.com/posts/2026-05-25-swes-are-not-going-anywhere
 ---
 ![9448067](https://raw.githubusercontent.com/twelventi/twel-blog/main/static/2026-05-25-swes-are-not-going-anywhere/9448067.jpg)
 
