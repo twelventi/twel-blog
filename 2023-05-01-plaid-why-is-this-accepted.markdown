@@ -1,11 +1,11 @@
 ---
-title: Plaid and the abysmal state of bank technology
+title: Plaid is the best we can do?
 date: 2023-05-01
 author: David Bono
 tags:
   - security
   - finance
-commit: 622ead74f15bc6134b7af85fe1454f67b0708d65
+commit: 214eb6492fc02ac2926d77f3cc4d684af96fd2a4
 url: "https://twelventi.com/posts/2023-05-01-plaid-why-is-this-accepted"
 ---
 
