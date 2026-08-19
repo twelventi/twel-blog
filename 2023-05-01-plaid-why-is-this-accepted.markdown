@@ -5,8 +5,8 @@ author: David Bono
 tags:
   - security
   - finance
-commit: 3d311ce06335bd37e740e68b098871dc993864c1
-url: https://twelventi.com/posts/2023-05-01-plaid-why-is-this-accepted
+commit: 622ead74f15bc6134b7af85fe1454f67b0708d65
+url: "https://twelventi.com/posts/2023-05-01-plaid-why-is-this-accepted"
 ---
 
 I've very recently had the unfortunate displeasure of discovering a financial service I'm using removed the option for people to transfer money directly from a bank account to for interface with the service, and only provides options for Plaid, a Card, or Wire Transfers. The latter two options incur fees to transfer your own money, so they're not really reasonable.
