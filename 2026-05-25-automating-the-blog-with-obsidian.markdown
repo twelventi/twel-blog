@@ -5,6 +5,8 @@ tags:
 title: Automating The Blog with Obsidian
 date: 2026-05-25
 author: David Bono
+commit: 719d7d01f6630c28b3581ab1909e0f8fd3c6d0aa
+url: "https://twelventi.com/posts/2026-05-25-automating-the-blog-with-obsidian"
 ---
 ![](https://raw.githubusercontent.com/twelventi/twel-blog/main/static/2026-05-25-automating-the-blog-with-obsidian/img_large_Trends-blog_-Industrial-automation-engineering.jpg)
 
