@@ -4,6 +4,8 @@ date: 2023-06-19
 author: David Bono
 tags:
   - tech
+commit: b7d3c1c38e8e8aaec46ddd180b05fc8f85c02eb8
+url: "https://twelventi.com/posts/2023-06-19-google-domains-shutting-down"
 ---
 
 
