@@ -1,11 +1,9 @@
 ---
-title:  "WiFi Coffee Makers are only a Little More Secure than I Thought" # This is the title that is displayed to users
-date:   2021-03-31
+title: WiFi Coffee Makers are only a Little More Secure than I Thought
+date: 2021-03-31
 author: David Bono
-# Uncomment to attach downloads
-# downloads:
-#     - file_url: /assets/downloads/example_file.pdf
-#       name: Example File
+tags:
+  - security
 ---
 
 *This is a repost article originally posted on [fordhamcss.org](https://fordhamcss.org/blog/2021/03/31/wifi-coffee-makers-are-only-a-little-more-secure-than-I-thought.html). I wrote and posted it in both places but I figured I'd also keep it here for historical purposes*
