@@ -2,7 +2,7 @@
 title: Software Engineering is Changing
 author: David Bono
 date: 2026-11-21
-commit: 44e2f2c8367014dc16a6af22bc20e87cc83a2bb6
+commit: ba984acada3ae10f5c759d968dc95ed349a63205
 url: "https://twelventi.com/posts/2026-11-21-software-engineering-is-changing"
 tags:
   - philosophy
@@ -11,7 +11,7 @@ tags:
 ---
 ![Pasted image 20261121182941](https://raw.githubusercontent.com/twelventi/twel-blog/main/static/2026-11-21-software-engineering-is-changing/Pasted image 20261121182941.png)
 
-I wrote a blog post only a few months ago called ["SWEs Are Not Going Anywhere"](https://www.twelventi.com/posts/2026-05-25-swes-are-not-going-anywhere). The main point of this article still stands, however there needs to be an updated assessment. 
+I wrote a blog post only a few months ago called [SWEs Are Not Going Anywhere](https://www.twelventi.com/posts/2026-05-25-swes-are-not-going-anywhere). The main point of this article still stands, however there needs to be an updated assessment. 
 
 DHH, the creator of Ruby on Rails, proclaimed in a [in a talk at Rails World 2026](https://x.com/thedealdirector/status/2103104430216557055) that "the days of chiseling code by hand are over". The word choice here "chiseling" is a phenomenal analogy in my opinion, because it is a real parallel to how engineers used to interact with code. The results of countless hours of finding where you forgot to type a semi colon, and hammering out letter by letter instructions to the software you are developing, can now be achieved by one simple prompt and a little bit of patience. Of course, the point in my last article still stands that you need to know what and how to prompt your agents, but the time it takes to produce code from an idea is trending towards zero. 
 
