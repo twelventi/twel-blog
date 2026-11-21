@@ -2,13 +2,14 @@
 title: Software Engineering is Changing
 author: David Bono
 date: 2026-11-21
-commit: eb2f7262e20c3536f25a215e2e007ef8eff0a763
+commit: 44e2f2c8367014dc16a6af22bc20e87cc83a2bb6
 url: "https://twelventi.com/posts/2026-11-21-software-engineering-is-changing"
 tags:
   - philosophy
   - tech
   - ai
 ---
+![Pasted image 20261121182941](https://raw.githubusercontent.com/twelventi/twel-blog/main/static/2026-11-21-software-engineering-is-changing/Pasted image 20261121182941.png)
 
 I wrote a blog post only a few months ago called ["SWEs Are Not Going Anywhere"](https://www.twelventi.com/posts/2026-05-25-swes-are-not-going-anywhere). The main point of this article still stands, however there needs to be an updated assessment. 
 
