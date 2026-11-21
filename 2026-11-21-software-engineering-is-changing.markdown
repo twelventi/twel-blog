@@ -2,8 +2,8 @@
 title: Software Engineering is Changing
 author: David Bono
 date: 2026-11-21
-commit: 50f870a43e2a72aa90e8a28d75dae9b06aae326b
-url: https://twelventi.com/posts/2026-11-21-software-engineering-is-changing
+commit: eb2f7262e20c3536f25a215e2e007ef8eff0a763
+url: "https://twelventi.com/posts/2026-11-21-software-engineering-is-changing"
 tags:
   - philosophy
   - tech
